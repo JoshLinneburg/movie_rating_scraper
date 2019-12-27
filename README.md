@@ -1,7 +1,7 @@
 # imdb_scraper
 Things we're looking for:
 
--- Film
+### Film
 - Movie title
 - Description
 - USA Release date
@@ -23,7 +23,7 @@ Things we're looking for:
 - Aspect ratio(s)
 - Sound mix
 
--- Actor
+### Actor
 - Name
 - Known For (TMDB)
 - Known Credits (TMDB)
@@ -42,7 +42,7 @@ Things we're looking for:
 - Lowest-rated film, regardless of actor/director/etc.
 - Awards as an actor (IMDB name search)
 
--- Non-actor person
+### Non-actor person
 - Name
 - Known For (TMDB)
 - Known Credits (TMDB)
