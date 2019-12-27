@@ -1,5 +1,6 @@
-# imdb_scraper
-Things we're looking for:
+# IMDb Web Scraping Notebook
+
+We want to scrape the following:
 
 ### Film
 - Movie title
