@@ -1,4 +1,4 @@
-# IMDb Web Scraping Notebook
+# Movie Review Scraping Notebook
 
 We want to scrape the following:
 
