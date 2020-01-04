@@ -7,9 +7,9 @@
             "title": "Three Colors: Red",
             "url": "https://letterboxd.com//film/three-colors-red/",
             "genres": [
-                "drama",
                 "romance",
-                "mystery"
+                "mystery",
+                "drama"
             ],
             "description": "Part-time model Valentine meets a retired judge who lives in her neighborhood after she runs over his dog. At first the judge gifts Valentine with the dog, but her possessive boyfriend won't allow her to keep it. When she returns with the dog to the judge's house, she discovers him listening in on his neighbors' phone conversations. At first Valentine is outraged, but her debates with the judge over his behavior soon leads them to form a strange bond.",
             "avg_rating": "4.2",
@@ -26,8 +26,8 @@
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 41,
-                    "perc_of_total": 0.0019
+                    "number_of_ratings": 40,
+                    "perc_of_total": 0.0018
                 },
                 {
                     "rating": 2.0,
@@ -36,33 +36,33 @@
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 292,
+                    "number_of_ratings": 293,
                     "perc_of_total": 0.0135
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 1442,
+                    "number_of_ratings": 1443,
                     "perc_of_total": 0.0667
                 },
                 {
                     "rating": 3.5,
                     "number_of_ratings": 2281,
-                    "perc_of_total": 0.1056
+                    "perc_of_total": 0.1055
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 6506,
-                    "perc_of_total": 0.3011
+                    "number_of_ratings": 6507,
+                    "perc_of_total": 0.3009
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 4703,
-                    "perc_of_total": 0.2176
+                    "number_of_ratings": 4712,
+                    "perc_of_total": 0.2179
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 6102,
-                    "perc_of_total": 0.2824
+                    "number_of_ratings": 6105,
+                    "perc_of_total": 0.2823
                 }
             ],
             "user_rating": 5.0,
@@ -180,7 +180,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -224,7 +224,7 @@
                         ]
                     },
                     {
-                        "crew_role": "composers",
+                        "crew_role": "composer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -273,7 +273,7 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 400,
+                    "number_of_ratings": 402,
                     "perc_of_total": 0.0015
                 },
                 {
@@ -283,43 +283,43 @@
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 827,
+                    "number_of_ratings": 828,
                     "perc_of_total": 0.0031
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 5675,
+                    "number_of_ratings": 5682,
                     "perc_of_total": 0.0216
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 4998,
+                    "number_of_ratings": 5002,
                     "perc_of_total": 0.019
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 25929,
+                    "number_of_ratings": 25952,
                     "perc_of_total": 0.0987
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 27284,
+                    "number_of_ratings": 27309,
                     "perc_of_total": 0.1038
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 82263,
-                    "perc_of_total": 0.3131
+                    "number_of_ratings": 82341,
+                    "perc_of_total": 0.313
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 47658,
-                    "perc_of_total": 0.1814
+                    "number_of_ratings": 47696,
+                    "perc_of_total": 0.1813
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 66351,
-                    "perc_of_total": 0.2525
+                    "number_of_ratings": 66436,
+                    "perc_of_total": 0.2526
                 }
             ],
             "user_rating": 4.0,
@@ -433,7 +433,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 12,
                         "crew_attributes": [
                             {
@@ -838,32 +838,32 @@
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 2637,
+                    "number_of_ratings": 2639,
                     "perc_of_total": 0.0237
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 10877,
+                    "number_of_ratings": 10888,
                     "perc_of_total": 0.0979
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 14419,
-                    "perc_of_total": 0.1297
+                    "number_of_ratings": 14439,
+                    "perc_of_total": 0.1298
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 35617,
+                    "number_of_ratings": 35648,
                     "perc_of_total": 0.3204
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 22411,
+                    "number_of_ratings": 22426,
                     "perc_of_total": 0.2016
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 20544,
+                    "number_of_ratings": 20563,
                     "perc_of_total": 0.1848
                 }
             ],
@@ -978,7 +978,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 10,
                         "crew_attributes": [
                             {
@@ -1158,8 +1158,8 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 810,
-                    "perc_of_total": 0.018
+                    "number_of_ratings": 811,
+                    "perc_of_total": 0.0181
                 },
                 {
                     "rating": 2.5,
@@ -1168,28 +1168,28 @@
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 4464,
+                    "number_of_ratings": 4471,
                     "perc_of_total": 0.0995
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 6928,
+                    "number_of_ratings": 6935,
                     "perc_of_total": 0.1544
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 14992,
-                    "perc_of_total": 0.334
+                    "number_of_ratings": 15002,
+                    "perc_of_total": 0.3339
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 8299,
-                    "perc_of_total": 0.1849
+                    "number_of_ratings": 8304,
+                    "perc_of_total": 0.1848
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 7776,
-                    "perc_of_total": 0.1733
+                    "number_of_ratings": 7792,
+                    "perc_of_total": 0.1734
                 }
             ],
             "user_rating": 3.0,
@@ -1303,7 +1303,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 4,
                         "crew_attributes": [
                             {
@@ -1451,7 +1451,7 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 1923,
+                    "number_of_ratings": 1924,
                     "perc_of_total": 0.0265
                 },
                 {
@@ -1461,27 +1461,27 @@
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 7874,
+                    "number_of_ratings": 7884,
                     "perc_of_total": 0.1085
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 11251,
-                    "perc_of_total": 0.155
+                    "number_of_ratings": 11254,
+                    "perc_of_total": 0.1549
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 22578,
-                    "perc_of_total": 0.3111
+                    "number_of_ratings": 22602,
+                    "perc_of_total": 0.3112
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 12306,
+                    "number_of_ratings": 12320,
                     "perc_of_total": 0.1696
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 13114,
+                    "number_of_ratings": 13129,
                     "perc_of_total": 0.1807
                 }
             ],
@@ -1596,7 +1596,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 3,
                         "crew_attributes": [
                             {
@@ -1713,12 +1713,12 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 238,
+                    "number_of_ratings": 237,
                     "perc_of_total": 0.0015
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 552,
+                    "number_of_ratings": 551,
                     "perc_of_total": 0.0035
                 },
                 {
@@ -1728,37 +1728,37 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 2727,
+                    "number_of_ratings": 2730,
                     "perc_of_total": 0.0174
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 4155,
+                    "number_of_ratings": 4160,
                     "perc_of_total": 0.0266
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 18048,
+                    "number_of_ratings": 18076,
                     "perc_of_total": 0.1154
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 28058,
+                    "number_of_ratings": 28083,
                     "perc_of_total": 0.1793
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 56337,
+                    "number_of_ratings": 56385,
                     "perc_of_total": 0.3601
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 23661,
+                    "number_of_ratings": 23683,
                     "perc_of_total": 0.1512
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 22166,
+                    "number_of_ratings": 22185,
                     "perc_of_total": 0.1417
                 }
             ],
@@ -1873,7 +1873,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 11,
                         "crew_attributes": [
                             {
@@ -1923,7 +1923,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 4,
                         "crew_attributes": [
                             {
@@ -2049,7 +2049,7 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 333,
+                    "number_of_ratings": 332,
                     "perc_of_total": 0.0022
                 },
                 {
@@ -2059,42 +2059,42 @@
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 773,
+                    "number_of_ratings": 774,
                     "perc_of_total": 0.0052
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 3965,
+                    "number_of_ratings": 3966,
                     "perc_of_total": 0.0267
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 4835,
+                    "number_of_ratings": 4840,
                     "perc_of_total": 0.0326
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 21207,
+                    "number_of_ratings": 21227,
                     "perc_of_total": 0.1428
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 23008,
-                    "perc_of_total": 0.155
+                    "number_of_ratings": 23020,
+                    "perc_of_total": 0.1549
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 44697,
-                    "perc_of_total": 0.301
+                    "number_of_ratings": 44744,
+                    "perc_of_total": 0.3011
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 17508,
+                    "number_of_ratings": 17523,
                     "perc_of_total": 0.1179
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 31149,
+                    "number_of_ratings": 31181,
                     "perc_of_total": 0.2098
                 }
             ],
@@ -2219,7 +2219,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -2338,47 +2338,47 @@
                 {
                     "rating": 1.0,
                     "number_of_ratings": 337,
-                    "perc_of_total": 0.0072
+                    "perc_of_total": 0.0071
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 283,
+                    "number_of_ratings": 284,
                     "perc_of_total": 0.006
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 1142,
+                    "number_of_ratings": 1145,
                     "perc_of_total": 0.0243
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 1467,
+                    "number_of_ratings": 1470,
                     "perc_of_total": 0.0312
                 },
                 {
                     "rating": 3.0,
                     "number_of_ratings": 5171,
-                    "perc_of_total": 0.1098
+                    "perc_of_total": 0.1097
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 7846,
+                    "number_of_ratings": 7851,
                     "perc_of_total": 0.1666
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 15733,
+                    "number_of_ratings": 15748,
                     "perc_of_total": 0.3341
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 8181,
+                    "number_of_ratings": 8189,
                     "perc_of_total": 0.1737
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 6767,
-                    "perc_of_total": 0.1437
+                    "number_of_ratings": 6777,
+                    "perc_of_total": 0.1438
                 }
             ],
             "user_rating": 4.0,
@@ -2492,7 +2492,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 6,
                         "crew_attributes": [
                             {
@@ -2566,7 +2566,7 @@
                         ]
                     },
                     {
-                        "crew_role": "composers",
+                        "crew_role": "composer",
                         "number_assigned": 3,
                         "crew_attributes": [
                             {
@@ -2619,7 +2619,7 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 226,
+                    "number_of_ratings": 225,
                     "perc_of_total": 0.0035
                 },
                 {
@@ -2635,36 +2635,36 @@
                 {
                     "rating": 2.0,
                     "number_of_ratings": 1510,
-                    "perc_of_total": 0.0233
+                    "perc_of_total": 0.0232
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 2222,
+                    "number_of_ratings": 2223,
                     "perc_of_total": 0.0342
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 7399,
+                    "number_of_ratings": 7404,
                     "perc_of_total": 0.1139
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 11989,
-                    "perc_of_total": 0.1846
+                    "number_of_ratings": 12003,
+                    "perc_of_total": 0.1847
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 21622,
-                    "perc_of_total": 0.333
+                    "number_of_ratings": 21631,
+                    "perc_of_total": 0.3329
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 9014,
+                    "number_of_ratings": 9019,
                     "perc_of_total": 0.1388
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 10076,
+                    "number_of_ratings": 10088,
                     "perc_of_total": 0.1552
                 }
             ],
@@ -2779,7 +2779,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 4,
                         "crew_attributes": [
                             {
@@ -2949,7 +2949,7 @@
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 3004,
+                    "number_of_ratings": 3005,
                     "perc_of_total": 0.0141
                 },
                 {
@@ -2959,37 +2959,37 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 8650,
+                    "number_of_ratings": 8660,
                     "perc_of_total": 0.0407
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 7889,
-                    "perc_of_total": 0.0371
+                    "number_of_ratings": 7898,
+                    "perc_of_total": 0.0372
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 29986,
+                    "number_of_ratings": 30008,
                     "perc_of_total": 0.1412
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 31949,
-                    "perc_of_total": 0.1504
+                    "number_of_ratings": 31983,
+                    "perc_of_total": 0.1505
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 63688,
+                    "number_of_ratings": 63737,
                     "perc_of_total": 0.2999
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 29249,
+                    "number_of_ratings": 29263,
                     "perc_of_total": 0.1377
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 35114,
+                    "number_of_ratings": 35138,
                     "perc_of_total": 0.1653
                 }
             ],
@@ -3104,7 +3104,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 3,
                         "crew_attributes": [
                             {
@@ -3122,7 +3122,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -3322,32 +3322,32 @@
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 467,
-                    "perc_of_total": 0.0311
+                    "number_of_ratings": 468,
+                    "perc_of_total": 0.0312
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 1890,
-                    "perc_of_total": 0.126
+                    "number_of_ratings": 1892,
+                    "perc_of_total": 0.1261
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 3217,
-                    "perc_of_total": 0.2145
+                    "number_of_ratings": 3216,
+                    "perc_of_total": 0.2144
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 5677,
-                    "perc_of_total": 0.3786
+                    "number_of_ratings": 5679,
+                    "perc_of_total": 0.3785
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 2123,
+                    "number_of_ratings": 2125,
                     "perc_of_total": 0.1416
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 1109,
+                    "number_of_ratings": 1110,
                     "perc_of_total": 0.074
                 }
             ],
@@ -3450,7 +3450,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -3601,28 +3601,28 @@
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 5216,
-                    "perc_of_total": 0.133
+                    "number_of_ratings": 5218,
+                    "perc_of_total": 0.1329
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 7369,
-                    "perc_of_total": 0.1878
+                    "number_of_ratings": 7374,
+                    "perc_of_total": 0.1879
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 12541,
+                    "number_of_ratings": 12548,
                     "perc_of_total": 0.3197
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 5485,
+                    "number_of_ratings": 5486,
                     "perc_of_total": 0.1398
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 4835,
-                    "perc_of_total": 0.1232
+                    "number_of_ratings": 4838,
+                    "perc_of_total": 0.1233
                 }
             ],
             "user_rating": 2.0,
@@ -3736,7 +3736,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 7,
                         "crew_attributes": [
                             {
@@ -3890,47 +3890,47 @@
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 1644,
+                    "number_of_ratings": 1645,
                     "perc_of_total": 0.0079
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 1742,
-                    "perc_of_total": 0.0084
+                    "number_of_ratings": 1741,
+                    "perc_of_total": 0.0083
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 7197,
+                    "number_of_ratings": 7207,
                     "perc_of_total": 0.0345
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 8708,
+                    "number_of_ratings": 8717,
                     "perc_of_total": 0.0418
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 31935,
+                    "number_of_ratings": 31977,
                     "perc_of_total": 0.1532
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 37950,
-                    "perc_of_total": 0.182
+                    "number_of_ratings": 38004,
+                    "perc_of_total": 0.1821
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 67767,
+                    "number_of_ratings": 67843,
                     "perc_of_total": 0.325
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 24225,
+                    "number_of_ratings": 24248,
                     "perc_of_total": 0.1162
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 26777,
+                    "number_of_ratings": 26802,
                     "perc_of_total": 0.1284
                 }
             ],
@@ -4015,7 +4015,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 10,
                         "crew_attributes": [
                             {
@@ -4061,7 +4061,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 3,
                         "crew_attributes": [
                             {
@@ -4400,7 +4400,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 3,
                         "crew_attributes": [
                             {
@@ -4418,7 +4418,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -4530,37 +4530,37 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 1051,
+                    "number_of_ratings": 1052,
                     "perc_of_total": 0.0292
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 1435,
+                    "number_of_ratings": 1436,
                     "perc_of_total": 0.0399
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 5692,
+                    "number_of_ratings": 5696,
                     "perc_of_total": 0.1581
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 8297,
+                    "number_of_ratings": 8300,
                     "perc_of_total": 0.2304
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 12334,
+                    "number_of_ratings": 12340,
                     "perc_of_total": 0.3425
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 4106,
-                    "perc_of_total": 0.114
+                    "number_of_ratings": 4110,
+                    "perc_of_total": 0.1141
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 2510,
+                    "number_of_ratings": 2513,
                     "perc_of_total": 0.0697
                 }
             ],
@@ -4675,7 +4675,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 8,
                         "crew_attributes": [
                             {
@@ -4841,33 +4841,33 @@
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 516,
-                    "perc_of_total": 0.0556
+                    "number_of_ratings": 517,
+                    "perc_of_total": 0.0557
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 1363,
-                    "perc_of_total": 0.1467
+                    "number_of_ratings": 1364,
+                    "perc_of_total": 0.1468
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 1764,
-                    "perc_of_total": 0.1899
+                    "number_of_ratings": 1763,
+                    "perc_of_total": 0.1898
                 },
                 {
                     "rating": 4.0,
                     "number_of_ratings": 2649,
-                    "perc_of_total": 0.2852
+                    "perc_of_total": 0.2851
                 },
                 {
                     "rating": 4.5,
                     "number_of_ratings": 1341,
-                    "perc_of_total": 0.1444
+                    "perc_of_total": 0.1443
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 974,
-                    "perc_of_total": 0.1049
+                    "number_of_ratings": 975,
+                    "perc_of_total": 0.105
                 }
             ],
             "user_rating": 5.0,
@@ -4981,7 +4981,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 8,
                         "crew_attributes": [
                             {
@@ -5019,7 +5019,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -5033,7 +5033,7 @@
                         ]
                     },
                     {
-                        "crew_role": "editors",
+                        "crew_role": "editor",
                         "number_assigned": 9,
                         "crew_attributes": [
                             {
@@ -5124,7 +5124,7 @@
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 393,
+                    "number_of_ratings": 394,
                     "perc_of_total": 0.0119
                 },
                 {
@@ -5134,32 +5134,32 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 1232,
+                    "number_of_ratings": 1234,
                     "perc_of_total": 0.0372
                 },
                 {
                     "rating": 2.5,
                     "number_of_ratings": 1587,
-                    "perc_of_total": 0.0479
+                    "perc_of_total": 0.0478
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 4607,
+                    "number_of_ratings": 4610,
                     "perc_of_total": 0.139
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 6743,
-                    "perc_of_total": 0.2034
+                    "number_of_ratings": 6748,
+                    "perc_of_total": 0.2035
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 11242,
+                    "number_of_ratings": 11250,
                     "perc_of_total": 0.3392
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 4363,
+                    "number_of_ratings": 4365,
                     "perc_of_total": 0.1316
                 },
                 {
@@ -5279,7 +5279,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -5293,7 +5293,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -5433,12 +5433,12 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 312,
+                    "number_of_ratings": 313,
                     "perc_of_total": 0.0039
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 660,
+                    "number_of_ratings": 661,
                     "perc_of_total": 0.0083
                 },
                 {
@@ -5448,37 +5448,37 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 2642,
+                    "number_of_ratings": 2644,
                     "perc_of_total": 0.033
                 },
                 {
                     "rating": 2.5,
                     "number_of_ratings": 3508,
-                    "perc_of_total": 0.0439
+                    "perc_of_total": 0.0438
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 13200,
+                    "number_of_ratings": 13207,
                     "perc_of_total": 0.165
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 17849,
+                    "number_of_ratings": 17861,
                     "perc_of_total": 0.2231
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 26501,
-                    "perc_of_total": 0.3313
+                    "number_of_ratings": 26511,
+                    "perc_of_total": 0.3312
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 8138,
+                    "number_of_ratings": 8142,
                     "perc_of_total": 0.1017
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 6574,
+                    "number_of_ratings": 6579,
                     "perc_of_total": 0.0822
                 }
             ],
@@ -5593,7 +5593,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 14,
                         "crew_attributes": [
                             {
@@ -5723,8 +5723,8 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 83,
-                    "perc_of_total": 0.0022
+                    "number_of_ratings": 82,
+                    "perc_of_total": 0.0021
                 },
                 {
                     "rating": 1.0,
@@ -5743,38 +5743,38 @@
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 1756,
+                    "number_of_ratings": 1757,
                     "perc_of_total": 0.0458
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 6127,
+                    "number_of_ratings": 6133,
                     "perc_of_total": 0.1598
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 9808,
-                    "perc_of_total": 0.2559
+                    "number_of_ratings": 9813,
+                    "perc_of_total": 0.2557
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 13617,
-                    "perc_of_total": 0.3552
+                    "number_of_ratings": 13646,
+                    "perc_of_total": 0.3555
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 3912,
+                    "number_of_ratings": 3920,
                     "perc_of_total": 0.1021
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 1540,
-                    "perc_of_total": 0.0402
+                    "number_of_ratings": 1539,
+                    "perc_of_total": 0.0401
                 }
             ],
             "user_rating": 4.0,
             "cast": {
-                "total_cast": 49,
+                "total_cast": 50,
                 "cast_list": [
                     {
                         "actor_seq_nbr": 0,
@@ -5790,21 +5790,21 @@
                     },
                     {
                         "actor_seq_nbr": 2,
+                        "actor_name": "Grace Van Patten",
+                        "actor_role": "Eliza Meyerowitz",
+                        "actor_url": "/actor/grace-van-patten/"
+                    },
+                    {
+                        "actor_seq_nbr": 3,
                         "actor_name": "Dustin Hoffman",
                         "actor_role": "Harold Meyerowitz",
                         "actor_url": "/actor/dustin-hoffman/"
                     },
                     {
-                        "actor_seq_nbr": 3,
+                        "actor_seq_nbr": 4,
                         "actor_name": "Emma Thompson",
                         "actor_role": "Maureen Meyerowitz",
                         "actor_url": "/actor/emma-thompson/"
-                    },
-                    {
-                        "actor_seq_nbr": 4,
-                        "actor_name": "Grace Van Patten",
-                        "actor_role": "Eliza Meyerowitz",
-                        "actor_url": "/actor/grace-van-patten/"
                     },
                     {
                         "actor_seq_nbr": 5,
@@ -5883,24 +5883,24 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 5,
                         "crew_attributes": [
-                            {
-                                "name": "Noah Baumbach",
-                                "url": "/producer/noah-baumbach/"
-                            },
-                            {
-                                "name": "Eli Bush",
-                                "url": "/producer/eli-bush/"
-                            },
                             {
                                 "name": "Scott Rudin",
                                 "url": "/producer/scott-rudin/"
                             },
                             {
+                                "name": "Noah Baumbach",
+                                "url": "/producer/noah-baumbach/"
+                            },
+                            {
                                 "name": "Lila Yacoub",
                                 "url": "/producer/lila-yacoub/"
+                            },
+                            {
+                                "name": "Eli Bush",
+                                "url": "/producer/eli-bush/"
                             },
                             {
                                 "name": "Ulises Rodríguez",
@@ -5997,7 +5997,7 @@
                 {
                     "rating": 1.0,
                     "number_of_ratings": 3,
-                    "perc_of_total": 0.0107
+                    "perc_of_total": 0.0106
                 },
                 {
                     "rating": 1.5,
@@ -6007,37 +6007,37 @@
                 {
                     "rating": 2.0,
                     "number_of_ratings": 16,
-                    "perc_of_total": 0.0569
+                    "perc_of_total": 0.0567
                 },
                 {
                     "rating": 2.5,
                     "number_of_ratings": 17,
-                    "perc_of_total": 0.0605
+                    "perc_of_total": 0.0603
                 },
                 {
                     "rating": 3.0,
                     "number_of_ratings": 49,
-                    "perc_of_total": 0.1744
+                    "perc_of_total": 0.1738
                 },
                 {
                     "rating": 3.5,
                     "number_of_ratings": 50,
-                    "perc_of_total": 0.1779
+                    "perc_of_total": 0.1773
                 },
                 {
                     "rating": 4.0,
                     "number_of_ratings": 78,
-                    "perc_of_total": 0.2776
+                    "perc_of_total": 0.2766
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 40,
-                    "perc_of_total": 0.1423
+                    "number_of_ratings": 41,
+                    "perc_of_total": 0.1454
                 },
                 {
                     "rating": 5.0,
                     "number_of_ratings": 24,
-                    "perc_of_total": 0.0854
+                    "perc_of_total": 0.0851
                 }
             ],
             "user_rating": 5.0,
@@ -6070,7 +6070,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 3,
                         "crew_attributes": [
                             {
@@ -6088,7 +6088,7 @@
                         ]
                     },
                     {
-                        "crew_role": "editors",
+                        "crew_role": "editor",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -6160,7 +6160,7 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 1285,
+                    "number_of_ratings": 1286,
                     "perc_of_total": 0.0445
                 },
                 {
@@ -6170,28 +6170,28 @@
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 4567,
+                    "number_of_ratings": 4569,
                     "perc_of_total": 0.1581
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 6579,
-                    "perc_of_total": 0.2278
+                    "number_of_ratings": 6581,
+                    "perc_of_total": 0.2277
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 8707,
-                    "perc_of_total": 0.3015
+                    "number_of_ratings": 8716,
+                    "perc_of_total": 0.3016
                 },
                 {
                     "rating": 4.5,
                     "number_of_ratings": 3147,
-                    "perc_of_total": 0.109
+                    "perc_of_total": 0.1089
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 1957,
-                    "perc_of_total": 0.0678
+                    "number_of_ratings": 1962,
+                    "perc_of_total": 0.0679
                 }
             ],
             "user_rating": 2.0,
@@ -6305,7 +6305,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 6,
                         "crew_attributes": [
                             {
@@ -6345,7 +6345,7 @@
                         ]
                     },
                     {
-                        "crew_role": "editors",
+                        "crew_role": "editor",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -6607,7 +6607,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 5,
                         "crew_attributes": [
                             {
@@ -6633,7 +6633,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -6647,7 +6647,7 @@
                         ]
                     },
                     {
-                        "crew_role": "editors",
+                        "crew_role": "editor",
                         "number_assigned": 3,
                         "crew_attributes": [
                             {
@@ -6754,38 +6754,38 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 1052,
-                    "perc_of_total": 0.0506
+                    "number_of_ratings": 1054,
+                    "perc_of_total": 0.0507
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 1398,
+                    "number_of_ratings": 1399,
                     "perc_of_total": 0.0673
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 3825,
-                    "perc_of_total": 0.1841
+                    "number_of_ratings": 3828,
+                    "perc_of_total": 0.1842
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 4617,
-                    "perc_of_total": 0.2223
+                    "number_of_ratings": 4622,
+                    "perc_of_total": 0.2224
                 },
                 {
                     "rating": 4.0,
                     "number_of_ratings": 5825,
-                    "perc_of_total": 0.2804
+                    "perc_of_total": 0.2803
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 1775,
+                    "number_of_ratings": 1776,
                     "perc_of_total": 0.0855
                 },
                 {
                     "rating": 5.0,
                     "number_of_ratings": 1632,
-                    "perc_of_total": 0.0786
+                    "perc_of_total": 0.0785
                 }
             ],
             "user_rating": 4.5,
@@ -6899,7 +6899,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -7012,18 +7012,18 @@
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 1094,
-                    "perc_of_total": 0.1635
+                    "number_of_ratings": 1095,
+                    "perc_of_total": 0.1636
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 1286,
-                    "perc_of_total": 0.1921
+                    "number_of_ratings": 1287,
+                    "perc_of_total": 0.1922
                 },
                 {
                     "rating": 4.0,
                     "number_of_ratings": 1903,
-                    "perc_of_total": 0.2843
+                    "perc_of_total": 0.2842
                 },
                 {
                     "rating": 4.5,
@@ -7033,7 +7033,7 @@
                 {
                     "rating": 5.0,
                     "number_of_ratings": 416,
-                    "perc_of_total": 0.0622
+                    "perc_of_total": 0.0621
                 }
             ],
             "user_rating": 2.5,
@@ -7135,7 +7135,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -7243,22 +7243,22 @@
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 525,
-                    "perc_of_total": 0.0736
+                    "number_of_ratings": 524,
+                    "perc_of_total": 0.0734
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 1504,
-                    "perc_of_total": 0.2109
+                    "number_of_ratings": 1506,
+                    "perc_of_total": 0.211
                 },
                 {
                     "rating": 3.5,
                     "number_of_ratings": 1789,
-                    "perc_of_total": 0.2508
+                    "perc_of_total": 0.2507
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 1903,
+                    "number_of_ratings": 1904,
                     "perc_of_total": 0.2668
                 },
                 {
@@ -7268,8 +7268,8 @@
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 425,
-                    "perc_of_total": 0.0596
+                    "number_of_ratings": 426,
+                    "perc_of_total": 0.0597
                 }
             ],
             "user_rating": 4.0,
@@ -7381,7 +7381,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 5,
                         "crew_attributes": [
                             {
@@ -7487,48 +7487,48 @@
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 861,
-                    "perc_of_total": 0.0162
+                    "number_of_ratings": 863,
+                    "perc_of_total": 0.0163
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 816,
+                    "number_of_ratings": 817,
                     "perc_of_total": 0.0154
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 3630,
+                    "number_of_ratings": 3636,
                     "perc_of_total": 0.0685
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 4027,
-                    "perc_of_total": 0.076
+                    "number_of_ratings": 4028,
+                    "perc_of_total": 0.0759
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 11655,
-                    "perc_of_total": 0.2199
+                    "number_of_ratings": 11662,
+                    "perc_of_total": 0.2198
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 10617,
+                    "number_of_ratings": 10628,
                     "perc_of_total": 0.2003
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 12174,
+                    "number_of_ratings": 12187,
                     "perc_of_total": 0.2297
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 4193,
+                    "number_of_ratings": 4197,
                     "perc_of_total": 0.0791
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 4710,
-                    "perc_of_total": 0.0889
+                    "number_of_ratings": 4713,
+                    "perc_of_total": 0.0888
                 }
             ],
             "user_rating": 5.0,
@@ -7642,7 +7642,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 7,
                         "crew_attributes": [
                             {
@@ -7903,7 +7903,7 @@
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 640,
+                    "number_of_ratings": 641,
                     "perc_of_total": 0.0183
                 },
                 {
@@ -7913,32 +7913,32 @@
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 2648,
+                    "number_of_ratings": 2649,
                     "perc_of_total": 0.0757
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 6472,
+                    "number_of_ratings": 6477,
                     "perc_of_total": 0.1851
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 7672,
+                    "number_of_ratings": 7675,
                     "perc_of_total": 0.2194
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 9435,
-                    "perc_of_total": 0.2698
+                    "number_of_ratings": 9437,
+                    "perc_of_total": 0.2697
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 3333,
+                    "number_of_ratings": 3335,
                     "perc_of_total": 0.0953
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 1708,
+                    "number_of_ratings": 1709,
                     "perc_of_total": 0.0488
                 }
             ],
@@ -8053,7 +8053,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -8159,8 +8159,8 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 118,
-                    "perc_of_total": 0.0023
+                    "number_of_ratings": 117,
+                    "perc_of_total": 0.0022
                 },
                 {
                     "rating": 1.0,
@@ -8174,27 +8174,27 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 2417,
+                    "number_of_ratings": 2419,
                     "perc_of_total": 0.0462
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 4132,
+                    "number_of_ratings": 4135,
                     "perc_of_total": 0.0789
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 13449,
-                    "perc_of_total": 0.2568
+                    "number_of_ratings": 13460,
+                    "perc_of_total": 0.2569
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 14136,
-                    "perc_of_total": 0.27
+                    "number_of_ratings": 14141,
+                    "perc_of_total": 0.2699
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 12815,
+                    "number_of_ratings": 12822,
                     "perc_of_total": 0.2447
                 },
                 {
@@ -8204,7 +8204,7 @@
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 1994,
+                    "number_of_ratings": 1996,
                     "perc_of_total": 0.0381
                 }
             ],
@@ -8319,7 +8319,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 7,
                         "crew_attributes": [
                             {
@@ -8564,37 +8564,37 @@
                 {
                     "rating": 2.0,
                     "number_of_ratings": 45,
-                    "perc_of_total": 0.0475
+                    "perc_of_total": 0.0473
                 },
                 {
                     "rating": 2.5,
                     "number_of_ratings": 79,
-                    "perc_of_total": 0.0833
+                    "perc_of_total": 0.0831
                 },
                 {
                     "rating": 3.0,
                     "number_of_ratings": 251,
-                    "perc_of_total": 0.2648
+                    "perc_of_total": 0.2639
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 257,
-                    "perc_of_total": 0.2711
+                    "number_of_ratings": 258,
+                    "perc_of_total": 0.2713
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 206,
-                    "perc_of_total": 0.2173
+                    "number_of_ratings": 208,
+                    "perc_of_total": 0.2187
                 },
                 {
                     "rating": 4.5,
                     "number_of_ratings": 50,
-                    "perc_of_total": 0.0527
+                    "perc_of_total": 0.0526
                 },
                 {
                     "rating": 5.0,
                     "number_of_ratings": 38,
-                    "perc_of_total": 0.0401
+                    "perc_of_total": 0.04
                 }
             ],
             "user_rating": 5.0,
@@ -8708,7 +8708,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 3,
                         "crew_attributes": [
                             {
@@ -8726,7 +8726,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -8829,7 +8829,7 @@
                 {
                     "rating": 4.0,
                     "number_of_ratings": 1350,
-                    "perc_of_total": 0.2598
+                    "perc_of_total": 0.2597
                 },
                 {
                     "rating": 4.5,
@@ -8838,8 +8838,8 @@
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 114,
-                    "perc_of_total": 0.0219
+                    "number_of_ratings": 115,
+                    "perc_of_total": 0.0221
                 }
             ],
             "user_rating": 3.0,
@@ -8953,7 +8953,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 12,
                         "crew_attributes": [
                             {
@@ -9007,7 +9007,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -9103,52 +9103,52 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 2614,
+                    "number_of_ratings": 2610,
                     "perc_of_total": 0.0146
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 5742,
+                    "number_of_ratings": 5745,
                     "perc_of_total": 0.0321
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 6105,
-                    "perc_of_total": 0.0341
+                    "number_of_ratings": 6116,
+                    "perc_of_total": 0.0342
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 16431,
+                    "number_of_ratings": 16436,
                     "perc_of_total": 0.0919
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 16157,
+                    "number_of_ratings": 16153,
                     "perc_of_total": 0.0903
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 33649,
+                    "number_of_ratings": 33683,
                     "perc_of_total": 0.1882
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 27117,
-                    "perc_of_total": 0.1516
+                    "number_of_ratings": 27139,
+                    "perc_of_total": 0.1517
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 37055,
+                    "number_of_ratings": 37074,
                     "perc_of_total": 0.2072
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 11855,
+                    "number_of_ratings": 11864,
                     "perc_of_total": 0.0663
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 22111,
+                    "number_of_ratings": 22120,
                     "perc_of_total": 0.1236
                 }
             ],
@@ -9263,7 +9263,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 11,
                         "crew_attributes": [
                             {
@@ -9313,7 +9313,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -9483,13 +9483,13 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 241,
+                    "number_of_ratings": 240,
                     "perc_of_total": 0.0056
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 577,
-                    "perc_of_total": 0.0134
+                    "number_of_ratings": 578,
+                    "perc_of_total": 0.0135
                 },
                 {
                     "rating": 1.5,
@@ -9498,27 +9498,27 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 2691,
+                    "number_of_ratings": 2692,
                     "perc_of_total": 0.0627
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 3705,
+                    "number_of_ratings": 3706,
                     "perc_of_total": 0.0863
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 10816,
+                    "number_of_ratings": 10821,
                     "perc_of_total": 0.252
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 10860,
+                    "number_of_ratings": 10863,
                     "perc_of_total": 0.253
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 10074,
+                    "number_of_ratings": 10077,
                     "perc_of_total": 0.2347
                 },
                 {
@@ -9528,7 +9528,7 @@
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 1106,
+                    "number_of_ratings": 1107,
                     "perc_of_total": 0.0258
                 }
             ],
@@ -9631,7 +9631,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 6,
                         "crew_attributes": [
                             {
@@ -9661,7 +9661,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -9997,17 +9997,17 @@
                 {
                     "rating": 3.0,
                     "number_of_ratings": 1859,
-                    "perc_of_total": 0.2951
+                    "perc_of_total": 0.295
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 1692,
+                    "number_of_ratings": 1693,
                     "perc_of_total": 0.2686
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 1264,
-                    "perc_of_total": 0.2007
+                    "number_of_ratings": 1266,
+                    "perc_of_total": 0.2009
                 },
                 {
                     "rating": 4.5,
@@ -10131,7 +10131,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 4,
                         "crew_attributes": [
                             {
@@ -10332,7 +10332,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -10406,28 +10406,28 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 258,
-                    "perc_of_total": 0.0621
+                    "number_of_ratings": 259,
+                    "perc_of_total": 0.0623
                 },
                 {
                     "rating": 2.5,
                     "number_of_ratings": 434,
-                    "perc_of_total": 0.1045
+                    "perc_of_total": 0.1043
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 1192,
+                    "number_of_ratings": 1194,
                     "perc_of_total": 0.287
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 1109,
-                    "perc_of_total": 0.267
+                    "number_of_ratings": 1111,
+                    "perc_of_total": 0.2671
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 793,
-                    "perc_of_total": 0.1909
+                    "number_of_ratings": 795,
+                    "perc_of_total": 0.1911
                 },
                 {
                     "rating": 4.5,
@@ -10437,7 +10437,7 @@
                 {
                     "rating": 5.0,
                     "number_of_ratings": 78,
-                    "perc_of_total": 0.0188
+                    "perc_of_total": 0.0187
                 }
             ],
             "user_rating": 4.5,
@@ -10541,7 +10541,7 @@
                 "total_unique_crew": 15,
                 "crew_list": [
                     {
-                        "crew_role": "directors",
+                        "crew_role": "director",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -10555,7 +10555,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 4,
                         "crew_attributes": [
                             {
@@ -10577,7 +10577,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -10686,8 +10686,8 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 53,
-                    "perc_of_total": 0.0078
+                    "number_of_ratings": 52,
+                    "perc_of_total": 0.0077
                 },
                 {
                     "rating": 1.0,
@@ -10711,8 +10711,8 @@
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 1716,
-                    "perc_of_total": 0.253
+                    "number_of_ratings": 1717,
+                    "perc_of_total": 0.2531
                 },
                 {
                     "rating": 3.5,
@@ -10834,7 +10834,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -10848,7 +10848,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -10892,7 +10892,7 @@
                         ]
                     },
                     {
-                        "crew_role": "composers",
+                        "crew_role": "composer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -10939,12 +10939,12 @@
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 1066,
-                    "perc_of_total": 0.1291
+                    "number_of_ratings": 1067,
+                    "perc_of_total": 0.1292
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 1973,
+                    "number_of_ratings": 1974,
                     "perc_of_total": 0.239
                 },
                 {
@@ -10954,18 +10954,18 @@
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 1565,
+                    "number_of_ratings": 1566,
                     "perc_of_total": 0.1896
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 536,
-                    "perc_of_total": 0.0649
+                    "number_of_ratings": 535,
+                    "perc_of_total": 0.0648
                 },
                 {
                     "rating": 5.0,
                     "number_of_ratings": 277,
-                    "perc_of_total": 0.0336
+                    "perc_of_total": 0.0335
                 }
             ],
             "user_rating": 4.0,
@@ -11079,7 +11079,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 4,
                         "crew_attributes": [
                             {
@@ -11271,13 +11271,13 @@
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 811,
+                    "number_of_ratings": 812,
                     "perc_of_total": 0.0251
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 869,
-                    "perc_of_total": 0.0269
+                    "number_of_ratings": 871,
+                    "perc_of_total": 0.027
                 },
                 {
                     "rating": 2.0,
@@ -11287,21 +11287,21 @@
                 {
                     "rating": 2.5,
                     "number_of_ratings": 3949,
-                    "perc_of_total": 0.1223
+                    "perc_of_total": 0.1222
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 9356,
-                    "perc_of_total": 0.2897
+                    "number_of_ratings": 9366,
+                    "perc_of_total": 0.2899
                 },
                 {
                     "rating": 3.5,
                     "number_of_ratings": 7763,
-                    "perc_of_total": 0.2404
+                    "perc_of_total": 0.2403
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 4920,
+                    "number_of_ratings": 4925,
                     "perc_of_total": 0.1524
                 },
                 {
@@ -11396,7 +11396,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 4,
                         "crew_attributes": [
                             {
@@ -11418,7 +11418,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 3,
                         "crew_attributes": [
                             {
@@ -11525,52 +11525,52 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 1032,
-                    "perc_of_total": 0.0101
+                    "number_of_ratings": 1036,
+                    "perc_of_total": 0.0102
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 2833,
+                    "number_of_ratings": 2838,
                     "perc_of_total": 0.0278
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 3961,
+                    "number_of_ratings": 3966,
                     "perc_of_total": 0.0389
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 11501,
-                    "perc_of_total": 0.113
+                    "number_of_ratings": 11529,
+                    "perc_of_total": 0.1131
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 14149,
+                    "number_of_ratings": 14171,
                     "perc_of_total": 0.139
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 25828,
-                    "perc_of_total": 0.2538
+                    "number_of_ratings": 25859,
+                    "perc_of_total": 0.2537
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 19509,
+                    "number_of_ratings": 19542,
                     "perc_of_total": 0.1917
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 15218,
-                    "perc_of_total": 0.1496
+                    "number_of_ratings": 15239,
+                    "perc_of_total": 0.1495
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 3488,
+                    "number_of_ratings": 3493,
                     "perc_of_total": 0.0343
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 4236,
+                    "number_of_ratings": 4244,
                     "perc_of_total": 0.0416
                 }
             ],
@@ -11685,7 +11685,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 8,
                         "crew_attributes": [
                             {
@@ -11723,7 +11723,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -12098,7 +12098,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 3,
                         "crew_attributes": [
                             {
@@ -12160,42 +12160,42 @@
                 {
                     "rating": 0.5,
                     "number_of_ratings": 8,
-                    "perc_of_total": 0.0073
+                    "perc_of_total": 0.0072
                 },
                 {
                     "rating": 1.0,
                     "number_of_ratings": 25,
-                    "perc_of_total": 0.0227
+                    "perc_of_total": 0.0226
                 },
                 {
                     "rating": 1.5,
                     "number_of_ratings": 42,
-                    "perc_of_total": 0.0381
+                    "perc_of_total": 0.038
                 },
                 {
                     "rating": 2.0,
                     "number_of_ratings": 150,
-                    "perc_of_total": 0.136
+                    "perc_of_total": 0.1359
                 },
                 {
                     "rating": 2.5,
                     "number_of_ratings": 220,
-                    "perc_of_total": 0.1995
+                    "perc_of_total": 0.1993
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 366,
-                    "perc_of_total": 0.3318
+                    "number_of_ratings": 367,
+                    "perc_of_total": 0.3324
                 },
                 {
                     "rating": 3.5,
                     "number_of_ratings": 164,
-                    "perc_of_total": 0.1487
+                    "perc_of_total": 0.1486
                 },
                 {
                     "rating": 4.0,
                     "number_of_ratings": 107,
-                    "perc_of_total": 0.097
+                    "perc_of_total": 0.0969
                 },
                 {
                     "rating": 4.5,
@@ -12319,7 +12319,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 7,
                         "crew_attributes": [
                             {
@@ -12353,7 +12353,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -12418,12 +12418,12 @@
                 {
                     "rating": 1.0,
                     "number_of_ratings": 393,
-                    "perc_of_total": 0.0234
+                    "perc_of_total": 0.0233
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 687,
-                    "perc_of_total": 0.0408
+                    "number_of_ratings": 688,
+                    "perc_of_total": 0.0409
                 },
                 {
                     "rating": 2.0,
@@ -12433,21 +12433,21 @@
                 {
                     "rating": 2.5,
                     "number_of_ratings": 3433,
-                    "perc_of_total": 0.204
+                    "perc_of_total": 0.2039
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 5325,
+                    "number_of_ratings": 5327,
                     "perc_of_total": 0.3164
                 },
                 {
                     "rating": 3.5,
                     "number_of_ratings": 2709,
-                    "perc_of_total": 0.161
+                    "perc_of_total": 0.1609
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 1437,
+                    "number_of_ratings": 1438,
                     "perc_of_total": 0.0854
                 },
                 {
@@ -12572,7 +12572,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 8,
                         "crew_attributes": [
                             {
@@ -12620,7 +12620,7 @@
                         ]
                     },
                     {
-                        "crew_role": "editors",
+                        "crew_role": "editor",
                         "number_assigned": 2,
                         "crew_attributes": [
                             {
@@ -12752,8 +12752,8 @@
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 540,
-                    "perc_of_total": 0.046
+                    "number_of_ratings": 543,
+                    "perc_of_total": 0.0462
                 },
                 {
                     "rating": 1.5,
@@ -12762,28 +12762,28 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 2472,
-                    "perc_of_total": 0.2104
+                    "number_of_ratings": 2473,
+                    "perc_of_total": 0.2103
                 },
                 {
                     "rating": 2.5,
                     "number_of_ratings": 2431,
-                    "perc_of_total": 0.2069
+                    "perc_of_total": 0.2068
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 3052,
+                    "number_of_ratings": 3053,
                     "perc_of_total": 0.2597
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 1270,
+                    "number_of_ratings": 1271,
                     "perc_of_total": 0.1081
                 },
                 {
                     "rating": 4.0,
                     "number_of_ratings": 694,
-                    "perc_of_total": 0.0591
+                    "perc_of_total": 0.059
                 },
                 {
                     "rating": 4.5,
@@ -12907,7 +12907,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 9,
                         "crew_attributes": [
                             {
@@ -12949,7 +12949,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 4,
                         "crew_attributes": [
                             {
@@ -13137,42 +13137,42 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 363,
+                    "number_of_ratings": 364,
                     "perc_of_total": 0.0235
                 },
                 {
                     "rating": 1.0,
                     "number_of_ratings": 1165,
-                    "perc_of_total": 0.0753
+                    "perc_of_total": 0.0752
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 1492,
+                    "number_of_ratings": 1493,
                     "perc_of_total": 0.0964
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 3379,
+                    "number_of_ratings": 3382,
                     "perc_of_total": 0.2183
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 3021,
-                    "perc_of_total": 0.1952
+                    "number_of_ratings": 3020,
+                    "perc_of_total": 0.195
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 3385,
+                    "number_of_ratings": 3388,
                     "perc_of_total": 0.2187
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 1520,
-                    "perc_of_total": 0.0982
+                    "number_of_ratings": 1524,
+                    "perc_of_total": 0.0984
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 879,
+                    "number_of_ratings": 880,
                     "perc_of_total": 0.0568
                 },
                 {
@@ -13183,7 +13183,7 @@
                 {
                     "rating": 5.0,
                     "number_of_ratings": 151,
-                    "perc_of_total": 0.0098
+                    "perc_of_total": 0.0097
                 }
             ],
             "user_rating": 0.5,
@@ -13297,7 +13297,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 6,
                         "crew_attributes": [
                             {
@@ -13327,7 +13327,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 4,
                         "crew_attributes": [
                             {
@@ -13490,13 +13490,13 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 1000,
-                    "perc_of_total": 0.1087
+                    "number_of_ratings": 1001,
+                    "perc_of_total": 0.1088
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 1535,
-                    "perc_of_total": 0.1669
+                    "number_of_ratings": 1534,
+                    "perc_of_total": 0.1667
                 },
                 {
                     "rating": 1.5,
@@ -13505,28 +13505,28 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 1360,
-                    "perc_of_total": 0.1479
+                    "number_of_ratings": 1362,
+                    "perc_of_total": 0.148
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 973,
+                    "number_of_ratings": 974,
                     "perc_of_total": 0.1058
                 },
                 {
                     "rating": 3.0,
                     "number_of_ratings": 1250,
-                    "perc_of_total": 0.1359
+                    "perc_of_total": 0.1358
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 788,
+                    "number_of_ratings": 789,
                     "perc_of_total": 0.0857
                 },
                 {
                     "rating": 4.0,
                     "number_of_ratings": 778,
-                    "perc_of_total": 0.0846
+                    "perc_of_total": 0.0845
                 },
                 {
                     "rating": 4.5,
@@ -13650,7 +13650,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 8,
                         "crew_attributes": [
                             {

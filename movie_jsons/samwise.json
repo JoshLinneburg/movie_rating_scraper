@@ -31,37 +31,37 @@
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 1581,
+                    "number_of_ratings": 1584,
                     "perc_of_total": 0.0112
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 1919,
+                    "number_of_ratings": 1918,
                     "perc_of_total": 0.0136
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 10041,
+                    "number_of_ratings": 10053,
                     "perc_of_total": 0.0711
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 15251,
+                    "number_of_ratings": 15261,
                     "perc_of_total": 0.1079
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 46211,
+                    "number_of_ratings": 46252,
                     "perc_of_total": 0.327
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 30021,
+                    "number_of_ratings": 30049,
                     "perc_of_total": 0.2125
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 35514,
+                    "number_of_ratings": 35541,
                     "perc_of_total": 0.2513
                 }
             ],
@@ -176,7 +176,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 6,
                         "crew_attributes": [
                             {
@@ -206,7 +206,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 3,
                         "crew_attributes": [
                             {
@@ -374,53 +374,53 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 426,
+                    "number_of_ratings": 425,
                     "perc_of_total": 0.002
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 1188,
+                    "number_of_ratings": 1190,
                     "perc_of_total": 0.0055
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 727,
+                    "number_of_ratings": 728,
                     "perc_of_total": 0.0034
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 3960,
+                    "number_of_ratings": 3962,
                     "perc_of_total": 0.0183
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 3444,
+                    "number_of_ratings": 3448,
                     "perc_of_total": 0.0159
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 19324,
-                    "perc_of_total": 0.0893
+                    "number_of_ratings": 19330,
+                    "perc_of_total": 0.0892
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 22828,
+                    "number_of_ratings": 22842,
                     "perc_of_total": 0.1054
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 70340,
+                    "number_of_ratings": 70416,
                     "perc_of_total": 0.3249
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 34567,
+                    "number_of_ratings": 34601,
                     "perc_of_total": 0.1597
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 59698,
-                    "perc_of_total": 0.2757
+                    "number_of_ratings": 59756,
+                    "perc_of_total": 0.2758
                 }
             ],
             "user_rating": 3.0,
@@ -534,7 +534,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 7,
                         "crew_attributes": [
                             {

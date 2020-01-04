@@ -16,52 +16,52 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 873,
+                    "number_of_ratings": 875,
                     "perc_of_total": 0.0065
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 3013,
+                    "number_of_ratings": 3014,
                     "perc_of_total": 0.0225
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 2378,
+                    "number_of_ratings": 2377,
                     "perc_of_total": 0.0178
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 10845,
+                    "number_of_ratings": 10855,
                     "perc_of_total": 0.0812
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 11061,
+                    "number_of_ratings": 11071,
                     "perc_of_total": 0.0828
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 32860,
+                    "number_of_ratings": 32881,
                     "perc_of_total": 0.2459
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 24519,
-                    "perc_of_total": 0.1835
+                    "number_of_ratings": 24529,
+                    "perc_of_total": 0.1834
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 28098,
+                    "number_of_ratings": 28117,
                     "perc_of_total": 0.2103
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 7247,
+                    "number_of_ratings": 7249,
                     "perc_of_total": 0.0542
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 12737,
+                    "number_of_ratings": 12742,
                     "perc_of_total": 0.0953
                 }
             ],
@@ -176,7 +176,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 8,
                         "crew_attributes": [
                             {
@@ -214,7 +214,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 5,
                         "crew_attributes": [
                             {
@@ -420,48 +420,48 @@
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 2995,
+                    "number_of_ratings": 2996,
                     "perc_of_total": 0.0262
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 2524,
+                    "number_of_ratings": 2525,
                     "perc_of_total": 0.0221
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 9938,
-                    "perc_of_total": 0.0871
+                    "number_of_ratings": 9939,
+                    "perc_of_total": 0.087
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 9908,
-                    "perc_of_total": 0.0868
+                    "number_of_ratings": 9917,
+                    "perc_of_total": 0.0869
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 26093,
-                    "perc_of_total": 0.2287
+                    "number_of_ratings": 26120,
+                    "perc_of_total": 0.2288
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 19551,
+                    "number_of_ratings": 19557,
                     "perc_of_total": 0.1713
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 21888,
+                    "number_of_ratings": 21903,
                     "perc_of_total": 0.1918
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 7916,
-                    "perc_of_total": 0.0694
+                    "number_of_ratings": 7918,
+                    "perc_of_total": 0.0693
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 12310,
-                    "perc_of_total": 0.1079
+                    "number_of_ratings": 12313,
+                    "perc_of_total": 0.1078
                 }
             ],
             "user_rating": 5.0,
@@ -575,7 +575,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 9,
                         "crew_attributes": [
                             {
@@ -617,7 +617,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 5,
                         "crew_attributes": [
                             {
@@ -874,53 +874,53 @@
             "rating_counts": [
                 {
                     "rating": 0.5,
-                    "number_of_ratings": 1648,
+                    "number_of_ratings": 1649,
                     "perc_of_total": 0.0162
                 },
                 {
                     "rating": 1.0,
-                    "number_of_ratings": 4660,
+                    "number_of_ratings": 4664,
                     "perc_of_total": 0.0457
                 },
                 {
                     "rating": 1.5,
-                    "number_of_ratings": 4153,
+                    "number_of_ratings": 4152,
                     "perc_of_total": 0.0407
                 },
                 {
                     "rating": 2.0,
-                    "number_of_ratings": 12311,
-                    "perc_of_total": 0.1207
+                    "number_of_ratings": 12324,
+                    "perc_of_total": 0.1208
                 },
                 {
                     "rating": 2.5,
-                    "number_of_ratings": 11397,
-                    "perc_of_total": 0.1118
+                    "number_of_ratings": 11402,
+                    "perc_of_total": 0.1117
                 },
                 {
                     "rating": 3.0,
-                    "number_of_ratings": 23336,
-                    "perc_of_total": 0.2288
+                    "number_of_ratings": 23353,
+                    "perc_of_total": 0.2289
                 },
                 {
                     "rating": 3.5,
-                    "number_of_ratings": 14101,
-                    "perc_of_total": 0.1383
+                    "number_of_ratings": 14104,
+                    "perc_of_total": 0.1382
                 },
                 {
                     "rating": 4.0,
-                    "number_of_ratings": 14486,
+                    "number_of_ratings": 14498,
                     "perc_of_total": 0.1421
                 },
                 {
                     "rating": 4.5,
-                    "number_of_ratings": 6484,
+                    "number_of_ratings": 6485,
                     "perc_of_total": 0.0636
                 },
                 {
                     "rating": 5.0,
-                    "number_of_ratings": 9397,
-                    "perc_of_total": 0.0922
+                    "number_of_ratings": 9401,
+                    "perc_of_total": 0.0921
                 }
             ],
             "user_rating": 5.0,
@@ -1034,7 +1034,7 @@
                         ]
                     },
                     {
-                        "crew_role": "producers",
+                        "crew_role": "producer",
                         "number_assigned": 5,
                         "crew_attributes": [
                             {
@@ -1060,7 +1060,7 @@
                         ]
                     },
                     {
-                        "crew_role": "writers",
+                        "crew_role": "writer",
                         "number_assigned": 5,
                         "crew_attributes": [
                             {
