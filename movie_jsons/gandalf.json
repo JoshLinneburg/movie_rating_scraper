@@ -1,0 +1,1376 @@
+{
+    "account": "gandalf",
+    "account_url": "https://letterboxd.com/gandalf",
+    "account_ratings_url": "https://letterboxd.com/gandalf/films/ratings/by/rating/",
+    "movies_rated": [
+        {
+            "title": "The Hobbit: An Unexpected Journey",
+            "url": "https://letterboxd.com//film/the-hobbit-an-unexpected-journey/",
+            "genres": [
+                "adventure",
+                "fantasy",
+                "action"
+            ],
+            "description": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+            "avg_rating": "3.4",
+            "rating_counts": [
+                {
+                    "rating": 0.5,
+                    "number_of_ratings": 873,
+                    "perc_of_total": 0.0065
+                },
+                {
+                    "rating": 1.0,
+                    "number_of_ratings": 3013,
+                    "perc_of_total": 0.0225
+                },
+                {
+                    "rating": 1.5,
+                    "number_of_ratings": 2378,
+                    "perc_of_total": 0.0178
+                },
+                {
+                    "rating": 2.0,
+                    "number_of_ratings": 10845,
+                    "perc_of_total": 0.0812
+                },
+                {
+                    "rating": 2.5,
+                    "number_of_ratings": 11061,
+                    "perc_of_total": 0.0828
+                },
+                {
+                    "rating": 3.0,
+                    "number_of_ratings": 32860,
+                    "perc_of_total": 0.2459
+                },
+                {
+                    "rating": 3.5,
+                    "number_of_ratings": 24519,
+                    "perc_of_total": 0.1835
+                },
+                {
+                    "rating": 4.0,
+                    "number_of_ratings": 28098,
+                    "perc_of_total": 0.2103
+                },
+                {
+                    "rating": 4.5,
+                    "number_of_ratings": 7247,
+                    "perc_of_total": 0.0542
+                },
+                {
+                    "rating": 5.0,
+                    "number_of_ratings": 12737,
+                    "perc_of_total": 0.0953
+                }
+            ],
+            "user_rating": 5.0,
+            "cast": {
+                "total_cast": 41,
+                "cast_list": [
+                    {
+                        "actor_seq_nbr": 0,
+                        "actor_name": "Ian McKellen",
+                        "actor_role": "Gandalf",
+                        "actor_url": "/actor/ian-mckellen/"
+                    },
+                    {
+                        "actor_seq_nbr": 1,
+                        "actor_name": "Martin Freeman",
+                        "actor_role": "Bilbo Baggins",
+                        "actor_url": "/actor/martin-freeman-1/"
+                    },
+                    {
+                        "actor_seq_nbr": 2,
+                        "actor_name": "Richard Armitage",
+                        "actor_role": "Thorin",
+                        "actor_url": "/actor/richard-armitage/"
+                    },
+                    {
+                        "actor_seq_nbr": 3,
+                        "actor_name": "James Nesbitt",
+                        "actor_role": "Bofur",
+                        "actor_url": "/actor/james-nesbitt/"
+                    },
+                    {
+                        "actor_seq_nbr": 4,
+                        "actor_name": "Ken Stott",
+                        "actor_role": "Balin",
+                        "actor_url": "/actor/ken-stott/"
+                    },
+                    {
+                        "actor_seq_nbr": 5,
+                        "actor_name": "Sylvester McCoy",
+                        "actor_role": "Radagast",
+                        "actor_url": "/actor/sylvester-mccoy/"
+                    },
+                    {
+                        "actor_seq_nbr": 6,
+                        "actor_name": "Barry Humphries",
+                        "actor_role": "Great Goblin",
+                        "actor_url": "/actor/barry-humphries/"
+                    },
+                    {
+                        "actor_seq_nbr": 7,
+                        "actor_name": "Cate Blanchett",
+                        "actor_role": "Galadriel",
+                        "actor_url": "/actor/cate-blanchett/"
+                    },
+                    {
+                        "actor_seq_nbr": 8,
+                        "actor_name": "Ian Holm",
+                        "actor_role": "Old Bilbo",
+                        "actor_url": "/actor/ian-holm/"
+                    },
+                    {
+                        "actor_seq_nbr": 9,
+                        "actor_name": "Christopher Lee",
+                        "actor_role": "Saruman",
+                        "actor_url": "/actor/christopher-lee/"
+                    },
+                    {
+                        "actor_seq_nbr": 10,
+                        "actor_name": "Hugo Weaving",
+                        "actor_role": "Elrond",
+                        "actor_url": "/actor/hugo-weaving/"
+                    },
+                    {
+                        "actor_seq_nbr": 11,
+                        "actor_name": "Elijah Wood",
+                        "actor_role": "Frodo Baggins",
+                        "actor_url": "/actor/elijah-wood/"
+                    },
+                    {
+                        "actor_seq_nbr": 12,
+                        "actor_name": "Andy Serkis",
+                        "actor_role": "Gollum",
+                        "actor_url": "/actor/andy-serkis/"
+                    },
+                    {
+                        "actor_seq_nbr": 13,
+                        "actor_name": "Aidan Turner",
+                        "actor_role": "Kili",
+                        "actor_url": "/actor/aidan-turner/"
+                    },
+                    {
+                        "actor_seq_nbr": 14,
+                        "actor_name": "Dean O'Gorman",
+                        "actor_role": "Fili",
+                        "actor_url": "/actor/dean-ogorman/"
+                    }
+                ]
+            },
+            "crew": {
+                "total_crew": 42,
+                "total_unique_crew": 39,
+                "crew_list": [
+                    {
+                        "crew_role": "director",
+                        "number_assigned": 1,
+                        "crew_attributes": [
+                            {
+                                "name": "Peter Jackson",
+                                "url": "/director/peter-jackson/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "producers",
+                        "number_assigned": 8,
+                        "crew_attributes": [
+                            {
+                                "name": "Peter Jackson",
+                                "url": "/producer/peter-jackson/"
+                            },
+                            {
+                                "name": "Fran Walsh",
+                                "url": "/producer/fran-walsh/"
+                            },
+                            {
+                                "name": "Carolynne Cunningham",
+                                "url": "/producer/carolynne-cunningham/"
+                            },
+                            {
+                                "name": "Toby Emmerich",
+                                "url": "/producer/toby-emmerich/"
+                            },
+                            {
+                                "name": "Zane Weiner",
+                                "url": "/producer/zane-weiner/"
+                            },
+                            {
+                                "name": "Ken Kamins",
+                                "url": "/producer/ken-kamins/"
+                            },
+                            {
+                                "name": "Alan Horn",
+                                "url": "/producer/alan-horn/"
+                            },
+                            {
+                                "name": "Carolyn Blackwood",
+                                "url": "/producer/carolyn-blackwood/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "writers",
+                        "number_assigned": 5,
+                        "crew_attributes": [
+                            {
+                                "name": "Peter Jackson",
+                                "url": "/writer/peter-jackson/"
+                            },
+                            {
+                                "name": "J.R.R. Tolkien",
+                                "url": "/writer/jrr-tolkien/"
+                            },
+                            {
+                                "name": "Fran Walsh",
+                                "url": "/writer/fran-walsh/"
+                            },
+                            {
+                                "name": "Philippa Boyens",
+                                "url": "/writer/philippa-boyens/"
+                            },
+                            {
+                                "name": "Guillermo del Toro",
+                                "url": "/writer/guillermo-del-toro/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "editor",
+                        "number_assigned": 1,
+                        "crew_attributes": [
+                            {
+                                "name": "Jabez Olssen",
+                                "url": "/editor/jabez-olssen/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "cinematography",
+                        "number_assigned": 1,
+                        "crew_attributes": [
+                            {
+                                "name": "Andrew Lesnie",
+                                "url": "/cinematography/andrew-lesnie-1/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "production design",
+                        "number_assigned": 5,
+                        "crew_attributes": [
+                            {
+                                "name": "Alan Lee",
+                                "url": "/production-design/alan-lee-1/"
+                            },
+                            {
+                                "name": "John Howe",
+                                "url": "/production-design/john-howe-1/"
+                            },
+                            {
+                                "name": "Dan Hennah",
+                                "url": "/production-design/dan-hennah/"
+                            },
+                            {
+                                "name": "Andy McLaren",
+                                "url": "/production-design/andy-mclaren/"
+                            },
+                            {
+                                "name": "Paul Tobin",
+                                "url": "/production-design/paul-tobin/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "visual effects",
+                        "number_assigned": 5,
+                        "crew_attributes": [
+                            {
+                                "name": "R. Christopher White",
+                                "url": "/visual-effects/r-christopher-white/"
+                            },
+                            {
+                                "name": "Eric Saindon",
+                                "url": "/visual-effects/eric-saindon/"
+                            },
+                            {
+                                "name": "Joe Letteri",
+                                "url": "/visual-effects/joe-letteri/"
+                            },
+                            {
+                                "name": "Matt Weaver",
+                                "url": "/visual-effects/matt-weaver-1/"
+                            },
+                            {
+                                "name": "David Clayton",
+                                "url": "/visual-effects/david-clayton-1/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "composer",
+                        "number_assigned": 1,
+                        "crew_attributes": [
+                            {
+                                "name": "Howard Shore",
+                                "url": "/composer/howard-shore/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "sound",
+                        "number_assigned": 10,
+                        "crew_attributes": [
+                            {
+                                "name": "Christopher Boyes",
+                                "url": "/sound/christopher-boyes/"
+                            },
+                            {
+                                "name": "Brent Burge",
+                                "url": "/sound/brent-burge/"
+                            },
+                            {
+                                "name": "David Farmer",
+                                "url": "/sound/david-farmer/"
+                            },
+                            {
+                                "name": "Michael Semanick",
+                                "url": "/sound/michael-semanick/"
+                            },
+                            {
+                                "name": "Dave Whitehead",
+                                "url": "/sound/dave-whitehead/"
+                            },
+                            {
+                                "name": "Michael Hedges",
+                                "url": "/sound/michael-hedges/"
+                            },
+                            {
+                                "name": "Justin Webster",
+                                "url": "/sound/justin-webster-1/"
+                            },
+                            {
+                                "name": "Chris Ward",
+                                "url": "/sound/chris-ward-1/"
+                            },
+                            {
+                                "name": "Hayden Collow",
+                                "url": "/sound/hayden-collow/"
+                            },
+                            {
+                                "name": "Melanie Graham",
+                                "url": "/sound/melanie-graham-1/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "costumes",
+                        "number_assigned": 4,
+                        "crew_attributes": [
+                            {
+                                "name": "Richard Taylor",
+                                "url": "/costumes/richard-taylor-4/"
+                            },
+                            {
+                                "name": "Ann Maskrey",
+                                "url": "/costumes/ann-maskrey/"
+                            },
+                            {
+                                "name": "Bob Buck",
+                                "url": "/costumes/bob-buck/"
+                            },
+                            {
+                                "name": "Paula Ryan",
+                                "url": "/costumes/paula-ryan/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "make-up",
+                        "number_assigned": 1,
+                        "crew_attributes": [
+                            {
+                                "name": "Rick Findlater",
+                                "url": "/make-up/rick-findlater/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Hobbit: The Desolation of Smaug",
+            "url": "https://letterboxd.com//film/the-hobbit-the-desolation-of-smaug/",
+            "genres": [
+                "action",
+                "adventure",
+                "fantasy"
+            ],
+            "description": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+            "avg_rating": "3.4",
+            "rating_counts": [
+                {
+                    "rating": 0.5,
+                    "number_of_ratings": 990,
+                    "perc_of_total": 0.0087
+                },
+                {
+                    "rating": 1.0,
+                    "number_of_ratings": 2995,
+                    "perc_of_total": 0.0262
+                },
+                {
+                    "rating": 1.5,
+                    "number_of_ratings": 2524,
+                    "perc_of_total": 0.0221
+                },
+                {
+                    "rating": 2.0,
+                    "number_of_ratings": 9938,
+                    "perc_of_total": 0.0871
+                },
+                {
+                    "rating": 2.5,
+                    "number_of_ratings": 9908,
+                    "perc_of_total": 0.0868
+                },
+                {
+                    "rating": 3.0,
+                    "number_of_ratings": 26093,
+                    "perc_of_total": 0.2287
+                },
+                {
+                    "rating": 3.5,
+                    "number_of_ratings": 19551,
+                    "perc_of_total": 0.1713
+                },
+                {
+                    "rating": 4.0,
+                    "number_of_ratings": 21888,
+                    "perc_of_total": 0.1918
+                },
+                {
+                    "rating": 4.5,
+                    "number_of_ratings": 7916,
+                    "perc_of_total": 0.0694
+                },
+                {
+                    "rating": 5.0,
+                    "number_of_ratings": 12310,
+                    "perc_of_total": 0.1079
+                }
+            ],
+            "user_rating": 5.0,
+            "cast": {
+                "total_cast": 59,
+                "cast_list": [
+                    {
+                        "actor_seq_nbr": 0,
+                        "actor_name": "Ian McKellen",
+                        "actor_role": "Gandalf",
+                        "actor_url": "/actor/ian-mckellen/"
+                    },
+                    {
+                        "actor_seq_nbr": 1,
+                        "actor_name": "Martin Freeman",
+                        "actor_role": "Bilbo Baggins",
+                        "actor_url": "/actor/martin-freeman-1/"
+                    },
+                    {
+                        "actor_seq_nbr": 2,
+                        "actor_name": "Richard Armitage",
+                        "actor_role": "Thorin Oakenshield",
+                        "actor_url": "/actor/richard-armitage/"
+                    },
+                    {
+                        "actor_seq_nbr": 3,
+                        "actor_name": "Benedict Cumberbatch",
+                        "actor_role": "Smaug / Necromancer",
+                        "actor_url": "/actor/benedict-cumberbatch/"
+                    },
+                    {
+                        "actor_seq_nbr": 4,
+                        "actor_name": "Evangeline Lilly",
+                        "actor_role": "Tauriel",
+                        "actor_url": "/actor/evangeline-lilly/"
+                    },
+                    {
+                        "actor_seq_nbr": 5,
+                        "actor_name": "Lee Pace",
+                        "actor_role": "Thranduil",
+                        "actor_url": "/actor/lee-pace/"
+                    },
+                    {
+                        "actor_seq_nbr": 6,
+                        "actor_name": "Luke Evans",
+                        "actor_role": "Bard / Girion",
+                        "actor_url": "/actor/luke-evans/"
+                    },
+                    {
+                        "actor_seq_nbr": 7,
+                        "actor_name": "Stephen Fry",
+                        "actor_role": "The Master of Laketown",
+                        "actor_url": "/actor/stephen-fry/"
+                    },
+                    {
+                        "actor_seq_nbr": 8,
+                        "actor_name": "Ken Stott",
+                        "actor_role": "Balin",
+                        "actor_url": "/actor/ken-stott/"
+                    },
+                    {
+                        "actor_seq_nbr": 9,
+                        "actor_name": "James Nesbitt",
+                        "actor_role": "Bofur",
+                        "actor_url": "/actor/james-nesbitt/"
+                    },
+                    {
+                        "actor_seq_nbr": 10,
+                        "actor_name": "Orlando Bloom",
+                        "actor_role": "Legolas",
+                        "actor_url": "/actor/orlando-bloom/"
+                    },
+                    {
+                        "actor_seq_nbr": 11,
+                        "actor_name": "Mikael Persbrandt",
+                        "actor_role": "Beorn",
+                        "actor_url": "/actor/mikael-persbrandt/"
+                    },
+                    {
+                        "actor_seq_nbr": 12,
+                        "actor_name": "Sylvester McCoy",
+                        "actor_role": "Radagast",
+                        "actor_url": "/actor/sylvester-mccoy/"
+                    },
+                    {
+                        "actor_seq_nbr": 13,
+                        "actor_name": "Aidan Turner",
+                        "actor_role": "Kili",
+                        "actor_url": "/actor/aidan-turner/"
+                    },
+                    {
+                        "actor_seq_nbr": 14,
+                        "actor_name": "Dean O'Gorman",
+                        "actor_role": "Fili",
+                        "actor_url": "/actor/dean-ogorman/"
+                    }
+                ]
+            },
+            "crew": {
+                "total_crew": 57,
+                "total_unique_crew": 54,
+                "crew_list": [
+                    {
+                        "crew_role": "director",
+                        "number_assigned": 1,
+                        "crew_attributes": [
+                            {
+                                "name": "Peter Jackson",
+                                "url": "/director/peter-jackson/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "producers",
+                        "number_assigned": 9,
+                        "crew_attributes": [
+                            {
+                                "name": "Peter Jackson",
+                                "url": "/producer/peter-jackson/"
+                            },
+                            {
+                                "name": "Fran Walsh",
+                                "url": "/producer/fran-walsh/"
+                            },
+                            {
+                                "name": "Carolynne Cunningham",
+                                "url": "/producer/carolynne-cunningham/"
+                            },
+                            {
+                                "name": "Callum Greene",
+                                "url": "/producer/callum-greene/"
+                            },
+                            {
+                                "name": "Toby Emmerich",
+                                "url": "/producer/toby-emmerich/"
+                            },
+                            {
+                                "name": "Zane Weiner",
+                                "url": "/producer/zane-weiner/"
+                            },
+                            {
+                                "name": "Ken Kamins",
+                                "url": "/producer/ken-kamins/"
+                            },
+                            {
+                                "name": "Alan Horn",
+                                "url": "/producer/alan-horn/"
+                            },
+                            {
+                                "name": "Carolyn Blackwood",
+                                "url": "/producer/carolyn-blackwood/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "writers",
+                        "number_assigned": 5,
+                        "crew_attributes": [
+                            {
+                                "name": "Peter Jackson",
+                                "url": "/writer/peter-jackson/"
+                            },
+                            {
+                                "name": "J.R.R. Tolkien",
+                                "url": "/writer/jrr-tolkien/"
+                            },
+                            {
+                                "name": "Fran Walsh",
+                                "url": "/writer/fran-walsh/"
+                            },
+                            {
+                                "name": "Philippa Boyens",
+                                "url": "/writer/philippa-boyens/"
+                            },
+                            {
+                                "name": "Guillermo del Toro",
+                                "url": "/writer/guillermo-del-toro/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "editor",
+                        "number_assigned": 1,
+                        "crew_attributes": [
+                            {
+                                "name": "Jabez Olssen",
+                                "url": "/editor/jabez-olssen/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "cinematography",
+                        "number_assigned": 1,
+                        "crew_attributes": [
+                            {
+                                "name": "Andrew Lesnie",
+                                "url": "/cinematography/andrew-lesnie-1/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "production design",
+                        "number_assigned": 10,
+                        "crew_attributes": [
+                            {
+                                "name": "Alan Lee",
+                                "url": "/production-design/alan-lee-1/"
+                            },
+                            {
+                                "name": "John Howe",
+                                "url": "/production-design/john-howe-1/"
+                            },
+                            {
+                                "name": "Dan Hennah",
+                                "url": "/production-design/dan-hennah/"
+                            },
+                            {
+                                "name": "Andy McLaren",
+                                "url": "/production-design/andy-mclaren/"
+                            },
+                            {
+                                "name": "Eduardo Pena",
+                                "url": "/production-design/eduardo-pena/"
+                            },
+                            {
+                                "name": "Paul Tobin",
+                                "url": "/production-design/paul-tobin/"
+                            },
+                            {
+                                "name": "Isadore William Crooks",
+                                "url": "/production-design/isadore-william-crooks/"
+                            },
+                            {
+                                "name": "Richard Wiles",
+                                "url": "/production-design/richard-wiles/"
+                            },
+                            {
+                                "name": "John Lott",
+                                "url": "/production-design/john-lott/"
+                            },
+                            {
+                                "name": "Colette Mullin",
+                                "url": "/production-design/colette-mullin/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "visual effects",
+                        "number_assigned": 9,
+                        "crew_attributes": [
+                            {
+                                "name": "Jeff Capogreco",
+                                "url": "/visual-effects/jeff-capogreco/"
+                            },
+                            {
+                                "name": "R. Christopher White",
+                                "url": "/visual-effects/r-christopher-white/"
+                            },
+                            {
+                                "name": "Eric Saindon",
+                                "url": "/visual-effects/eric-saindon/"
+                            },
+                            {
+                                "name": "Joe Letteri",
+                                "url": "/visual-effects/joe-letteri/"
+                            },
+                            {
+                                "name": "Eric Reynolds",
+                                "url": "/visual-effects/eric-reynolds-1/"
+                            },
+                            {
+                                "name": "Hugo Dominguez",
+                                "url": "/visual-effects/hugo-dominguez/"
+                            },
+                            {
+                                "name": "Matt Weaver",
+                                "url": "/visual-effects/matt-weaver-1/"
+                            },
+                            {
+                                "name": "Anna-Louise Gordon",
+                                "url": "/visual-effects/anna-louise-gordon/"
+                            },
+                            {
+                                "name": "David Clayton",
+                                "url": "/visual-effects/david-clayton-1/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "composer",
+                        "number_assigned": 1,
+                        "crew_attributes": [
+                            {
+                                "name": "Howard Shore",
+                                "url": "/composer/howard-shore/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "sound",
+                        "number_assigned": 10,
+                        "crew_attributes": [
+                            {
+                                "name": "Christopher Boyes",
+                                "url": "/sound/christopher-boyes/"
+                            },
+                            {
+                                "name": "Brent Burge",
+                                "url": "/sound/brent-burge/"
+                            },
+                            {
+                                "name": "David Farmer",
+                                "url": "/sound/david-farmer/"
+                            },
+                            {
+                                "name": "Michael Semanick",
+                                "url": "/sound/michael-semanick/"
+                            },
+                            {
+                                "name": "Dave Whitehead",
+                                "url": "/sound/dave-whitehead/"
+                            },
+                            {
+                                "name": "Michael Hedges",
+                                "url": "/sound/michael-hedges/"
+                            },
+                            {
+                                "name": "Justin Webster",
+                                "url": "/sound/justin-webster-1/"
+                            },
+                            {
+                                "name": "Chris Ward",
+                                "url": "/sound/chris-ward-1/"
+                            },
+                            {
+                                "name": "Hayden Collow",
+                                "url": "/sound/hayden-collow/"
+                            },
+                            {
+                                "name": "Melanie Graham",
+                                "url": "/sound/melanie-graham-1/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "costumes",
+                        "number_assigned": 6,
+                        "crew_attributes": [
+                            {
+                                "name": "Richard Taylor",
+                                "url": "/costumes/richard-taylor-4/"
+                            },
+                            {
+                                "name": "Ann Maskrey",
+                                "url": "/costumes/ann-maskrey/"
+                            },
+                            {
+                                "name": "Bob Buck",
+                                "url": "/costumes/bob-buck/"
+                            },
+                            {
+                                "name": "Sally Gray",
+                                "url": "/costumes/sally-gray-2/"
+                            },
+                            {
+                                "name": "Charlotte Hayes",
+                                "url": "/costumes/charlotte-hayes/"
+                            },
+                            {
+                                "name": "Daniel Cruden",
+                                "url": "/costumes/daniel-cruden/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "make-up",
+                        "number_assigned": 4,
+                        "crew_attributes": [
+                            {
+                                "name": "Michele Barber",
+                                "url": "/make-up/michele-barber/"
+                            },
+                            {
+                                "name": "Catherine Maguire",
+                                "url": "/make-up/catherine-maguire/"
+                            },
+                            {
+                                "name": "Amy McLennan",
+                                "url": "/make-up/amy-mclennan/"
+                            },
+                            {
+                                "name": "Ricci-Lee Berry",
+                                "url": "/make-up/ricci-lee-berry/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Hobbit: The Battle of the Five Armies",
+            "url": "https://letterboxd.com//film/the-hobbit-the-battle-of-the-five-armies/",
+            "genres": [
+                "fantasy",
+                "adventure",
+                "action"
+            ],
+            "description": "Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+            "avg_rating": "3.1",
+            "rating_counts": [
+                {
+                    "rating": 0.5,
+                    "number_of_ratings": 1648,
+                    "perc_of_total": 0.0162
+                },
+                {
+                    "rating": 1.0,
+                    "number_of_ratings": 4660,
+                    "perc_of_total": 0.0457
+                },
+                {
+                    "rating": 1.5,
+                    "number_of_ratings": 4153,
+                    "perc_of_total": 0.0407
+                },
+                {
+                    "rating": 2.0,
+                    "number_of_ratings": 12311,
+                    "perc_of_total": 0.1207
+                },
+                {
+                    "rating": 2.5,
+                    "number_of_ratings": 11397,
+                    "perc_of_total": 0.1118
+                },
+                {
+                    "rating": 3.0,
+                    "number_of_ratings": 23336,
+                    "perc_of_total": 0.2288
+                },
+                {
+                    "rating": 3.5,
+                    "number_of_ratings": 14101,
+                    "perc_of_total": 0.1383
+                },
+                {
+                    "rating": 4.0,
+                    "number_of_ratings": 14486,
+                    "perc_of_total": 0.1421
+                },
+                {
+                    "rating": 4.5,
+                    "number_of_ratings": 6484,
+                    "perc_of_total": 0.0636
+                },
+                {
+                    "rating": 5.0,
+                    "number_of_ratings": 9397,
+                    "perc_of_total": 0.0922
+                }
+            ],
+            "user_rating": 5.0,
+            "cast": {
+                "total_cast": 44,
+                "cast_list": [
+                    {
+                        "actor_seq_nbr": 0,
+                        "actor_name": "Martin Freeman",
+                        "actor_role": "Bilbo Baggins",
+                        "actor_url": "/actor/martin-freeman-1/"
+                    },
+                    {
+                        "actor_seq_nbr": 1,
+                        "actor_name": "Ian McKellen",
+                        "actor_role": "Gandalf",
+                        "actor_url": "/actor/ian-mckellen/"
+                    },
+                    {
+                        "actor_seq_nbr": 2,
+                        "actor_name": "Richard Armitage",
+                        "actor_role": "Thorin Oakenshield",
+                        "actor_url": "/actor/richard-armitage/"
+                    },
+                    {
+                        "actor_seq_nbr": 3,
+                        "actor_name": "Evangeline Lilly",
+                        "actor_role": "Tauriel",
+                        "actor_url": "/actor/evangeline-lilly/"
+                    },
+                    {
+                        "actor_seq_nbr": 4,
+                        "actor_name": "Luke Evans",
+                        "actor_role": "Bard",
+                        "actor_url": "/actor/luke-evans/"
+                    },
+                    {
+                        "actor_seq_nbr": 5,
+                        "actor_name": "Lee Pace",
+                        "actor_role": "Thranduil",
+                        "actor_url": "/actor/lee-pace/"
+                    },
+                    {
+                        "actor_seq_nbr": 6,
+                        "actor_name": "Benedict Cumberbatch",
+                        "actor_role": "Smaug / Necromancer (voice)",
+                        "actor_url": "/actor/benedict-cumberbatch/"
+                    },
+                    {
+                        "actor_seq_nbr": 7,
+                        "actor_name": "Ken Stott",
+                        "actor_role": "Balin",
+                        "actor_url": "/actor/ken-stott/"
+                    },
+                    {
+                        "actor_seq_nbr": 8,
+                        "actor_name": "Aidan Turner",
+                        "actor_role": "Kili",
+                        "actor_url": "/actor/aidan-turner/"
+                    },
+                    {
+                        "actor_seq_nbr": 9,
+                        "actor_name": "Dean O'Gorman",
+                        "actor_role": "Fili",
+                        "actor_url": "/actor/dean-ogorman/"
+                    },
+                    {
+                        "actor_seq_nbr": 10,
+                        "actor_name": "Billy Connolly",
+                        "actor_role": "Dain",
+                        "actor_url": "/actor/billy-connolly/"
+                    },
+                    {
+                        "actor_seq_nbr": 11,
+                        "actor_name": "Graham McTavish",
+                        "actor_role": "Dwalin",
+                        "actor_url": "/actor/graham-mctavish/"
+                    },
+                    {
+                        "actor_seq_nbr": 12,
+                        "actor_name": "James Nesbitt",
+                        "actor_role": "Bofur",
+                        "actor_url": "/actor/james-nesbitt/"
+                    },
+                    {
+                        "actor_seq_nbr": 13,
+                        "actor_name": "Stephen Fry",
+                        "actor_role": "Master of Laketown",
+                        "actor_url": "/actor/stephen-fry/"
+                    },
+                    {
+                        "actor_seq_nbr": 14,
+                        "actor_name": "Ryan Gage",
+                        "actor_role": "Alfrid",
+                        "actor_url": "/actor/ryan-gage/"
+                    }
+                ]
+            },
+            "crew": {
+                "total_crew": 70,
+                "total_unique_crew": 67,
+                "crew_list": [
+                    {
+                        "crew_role": "director",
+                        "number_assigned": 1,
+                        "crew_attributes": [
+                            {
+                                "name": "Peter Jackson",
+                                "url": "/director/peter-jackson/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "producers",
+                        "number_assigned": 5,
+                        "crew_attributes": [
+                            {
+                                "name": "Peter Jackson",
+                                "url": "/producer/peter-jackson/"
+                            },
+                            {
+                                "name": "Fran Walsh",
+                                "url": "/producer/fran-walsh/"
+                            },
+                            {
+                                "name": "Carolynne Cunningham",
+                                "url": "/producer/carolynne-cunningham/"
+                            },
+                            {
+                                "name": "Zane Weiner",
+                                "url": "/producer/zane-weiner/"
+                            },
+                            {
+                                "name": "Carolyn Blackwood",
+                                "url": "/producer/carolyn-blackwood/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "writers",
+                        "number_assigned": 5,
+                        "crew_attributes": [
+                            {
+                                "name": "Peter Jackson",
+                                "url": "/writer/peter-jackson/"
+                            },
+                            {
+                                "name": "J.R.R. Tolkien",
+                                "url": "/writer/jrr-tolkien/"
+                            },
+                            {
+                                "name": "Fran Walsh",
+                                "url": "/writer/fran-walsh/"
+                            },
+                            {
+                                "name": "Philippa Boyens",
+                                "url": "/writer/philippa-boyens/"
+                            },
+                            {
+                                "name": "Guillermo del Toro",
+                                "url": "/writer/guillermo-del-toro/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "editor",
+                        "number_assigned": 1,
+                        "crew_attributes": [
+                            {
+                                "name": "Jabez Olssen",
+                                "url": "/editor/jabez-olssen/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "cinematography",
+                        "number_assigned": 1,
+                        "crew_attributes": [
+                            {
+                                "name": "Andrew Lesnie",
+                                "url": "/cinematography/andrew-lesnie-1/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "production design",
+                        "number_assigned": 12,
+                        "crew_attributes": [
+                            {
+                                "name": "Alan Lee",
+                                "url": "/production-design/alan-lee-1/"
+                            },
+                            {
+                                "name": "John Howe",
+                                "url": "/production-design/john-howe-1/"
+                            },
+                            {
+                                "name": "Dan Hennah",
+                                "url": "/production-design/dan-hennah/"
+                            },
+                            {
+                                "name": "Andy McLaren",
+                                "url": "/production-design/andy-mclaren/"
+                            },
+                            {
+                                "name": "Ben Mauro",
+                                "url": "/production-design/ben-mauro/"
+                            },
+                            {
+                                "name": "Mark Stephens",
+                                "url": "/production-design/mark-stephens/"
+                            },
+                            {
+                                "name": "Paul Tobin",
+                                "url": "/production-design/paul-tobin/"
+                            },
+                            {
+                                "name": "Joshua Barraud",
+                                "url": "/production-design/joshua-barraud/"
+                            },
+                            {
+                                "name": "Michael Smale",
+                                "url": "/production-design/michael-smale/"
+                            },
+                            {
+                                "name": "Isadore William Crooks",
+                                "url": "/production-design/isadore-william-crooks/"
+                            },
+                            {
+                                "name": "Gavin Urquhart",
+                                "url": "/production-design/gavin-urquhart/"
+                            },
+                            {
+                                "name": "Richard Wiles",
+                                "url": "/production-design/richard-wiles/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "visual effects",
+                        "number_assigned": 20,
+                        "crew_attributes": [
+                            {
+                                "name": "R. Christopher White",
+                                "url": "/visual-effects/r-christopher-white/"
+                            },
+                            {
+                                "name": "Eric Saindon",
+                                "url": "/visual-effects/eric-saindon/"
+                            },
+                            {
+                                "name": "Tom Meade",
+                                "url": "/visual-effects/tom-meade/"
+                            },
+                            {
+                                "name": "Matt Aitken",
+                                "url": "/visual-effects/matt-aitken/"
+                            },
+                            {
+                                "name": "Shaun Friedberg",
+                                "url": "/visual-effects/shaun-friedberg/"
+                            },
+                            {
+                                "name": "Derrick Auyoung",
+                                "url": "/visual-effects/derrick-auyoung/"
+                            },
+                            {
+                                "name": "Leon Woud",
+                                "url": "/visual-effects/leon-woud/"
+                            },
+                            {
+                                "name": "Keith Lackey",
+                                "url": "/visual-effects/keith-lackey/"
+                            },
+                            {
+                                "name": "Joe Letteri",
+                                "url": "/visual-effects/joe-letteri/"
+                            },
+                            {
+                                "name": "Hugo Dominguez",
+                                "url": "/visual-effects/hugo-dominguez/"
+                            },
+                            {
+                                "name": "Matt Weaver",
+                                "url": "/visual-effects/matt-weaver-1/"
+                            },
+                            {
+                                "name": "Michael Cozens",
+                                "url": "/visual-effects/michael-cozens/"
+                            },
+                            {
+                                "name": "Jade Mansueto",
+                                "url": "/visual-effects/jade-mansueto/"
+                            },
+                            {
+                                "name": "David Conley",
+                                "url": "/visual-effects/david-conley-1/"
+                            },
+                            {
+                                "name": "Anna-Louise Gordon",
+                                "url": "/visual-effects/anna-louise-gordon/"
+                            },
+                            {
+                                "name": "Romy Webster",
+                                "url": "/visual-effects/romy-webster/"
+                            },
+                            {
+                                "name": "Alexander Nowotny",
+                                "url": "/visual-effects/alexander-nowotny/"
+                            },
+                            {
+                                "name": "Ronnie Menahem",
+                                "url": "/visual-effects/ronnie-menahem/"
+                            },
+                            {
+                                "name": "David Caeiro Cebrián",
+                                "url": "/visual-effects/david-caeiro-cebrian/"
+                            },
+                            {
+                                "name": "David Clayton",
+                                "url": "/visual-effects/david-clayton-1/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "composer",
+                        "number_assigned": 1,
+                        "crew_attributes": [
+                            {
+                                "name": "Howard Shore",
+                                "url": "/composer/howard-shore/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "sound",
+                        "number_assigned": 14,
+                        "crew_attributes": [
+                            {
+                                "name": "Christopher Boyes",
+                                "url": "/sound/christopher-boyes/"
+                            },
+                            {
+                                "name": "Brent Burge",
+                                "url": "/sound/brent-burge/"
+                            },
+                            {
+                                "name": "David Farmer",
+                                "url": "/sound/david-farmer/"
+                            },
+                            {
+                                "name": "Adrian Medhurst",
+                                "url": "/sound/adrian-medhurst/"
+                            },
+                            {
+                                "name": "Justin Doyle",
+                                "url": "/sound/justin-doyle/"
+                            },
+                            {
+                                "name": "Michael Semanick",
+                                "url": "/sound/michael-semanick/"
+                            },
+                            {
+                                "name": "Dave Whitehead",
+                                "url": "/sound/dave-whitehead/"
+                            },
+                            {
+                                "name": "Michael Hedges",
+                                "url": "/sound/michael-hedges/"
+                            },
+                            {
+                                "name": "Justin Webster",
+                                "url": "/sound/justin-webster-1/"
+                            },
+                            {
+                                "name": "Hayden Collow",
+                                "url": "/sound/hayden-collow/"
+                            },
+                            {
+                                "name": "Melanie Graham",
+                                "url": "/sound/melanie-graham-1/"
+                            },
+                            {
+                                "name": "Gary Summers",
+                                "url": "/sound/gary-summers/"
+                            },
+                            {
+                                "name": "Toby Lloyd",
+                                "url": "/sound/toby-lloyd/"
+                            },
+                            {
+                                "name": "Jason Canovas",
+                                "url": "/sound/jason-canovas/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "costumes",
+                        "number_assigned": 6,
+                        "crew_attributes": [
+                            {
+                                "name": "Richard Taylor",
+                                "url": "/costumes/richard-taylor-4/"
+                            },
+                            {
+                                "name": "Jenny Rushton",
+                                "url": "/costumes/jenny-rushton/"
+                            },
+                            {
+                                "name": "Ann Maskrey",
+                                "url": "/costumes/ann-maskrey/"
+                            },
+                            {
+                                "name": "Bob Buck",
+                                "url": "/costumes/bob-buck/"
+                            },
+                            {
+                                "name": "Sally Gray",
+                                "url": "/costumes/sally-gray-2/"
+                            },
+                            {
+                                "name": "Charlotte Hayes",
+                                "url": "/costumes/charlotte-hayes/"
+                            }
+                        ]
+                    },
+                    {
+                        "crew_role": "make-up",
+                        "number_assigned": 4,
+                        "crew_attributes": [
+                            {
+                                "name": "Rick Findlater",
+                                "url": "/make-up/rick-findlater/"
+                            },
+                            {
+                                "name": "Michele Barber",
+                                "url": "/make-up/michele-barber/"
+                            },
+                            {
+                                "name": "Catherine Maguire",
+                                "url": "/make-up/catherine-maguire/"
+                            },
+                            {
+                                "name": "Barbara Broucke",
+                                "url": "/make-up/barbara-broucke/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
